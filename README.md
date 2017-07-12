@@ -4,7 +4,7 @@ Henacat_sharpは前橋和弥(kmaebashi)氏が作成したWebサーバソフトウェア「Henacat」を
 興味がある方はぜひ前橋氏の著書[「Webサーバを作りながら学ぶ 基礎からのWebアプリケーション開発入門」](http://kmaebashi.com/webserver/index.html)を読み、
 実際に動かしながら学習する事をおすすめします。
 
-Henacat_sharpについての質問等は[nendocode@gmail.com](nendocode@gmail.com)までご連絡ください。
+Henacat_sharpについての質問等はnendocode@gmail.comまでご連絡ください。
 
 # 環境
 WindowsServer2012R2 + Visual Studio 2015 Community環境にて動作確認しています。
